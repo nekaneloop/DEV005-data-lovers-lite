@@ -1,12 +1,62 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Data Lovers</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./img/pokebola.png" type="svg" sizes="16px" />
+    <title>Data Pokemon Lovers</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
+
   <body>
-    <div id="root"></div>
+    <header>
+      <main class="encabezado">
+      <img src="./img/logotipo.svg" id="logotipo">
+      </main>
+    </header>
+
+    <main class="contenedor">
+
+<article class="menu">
+
+      <section id="btn-filtrar">
+        <label for="listadeopciones"> ¡Atrápalos YA por tipo! </label>
+        <select name="listadeopciones" class="opciones">
+          <option value="acero">Acero</option>
+          <option value="water">Agua</option>
+          <option value="bicho">Bicho</option>
+          <option value="dragon">Dragón</option>
+          <option value="eléctrico">Eléctrico</option>
+          <option value="fantasma">Fantasma</option>
+          <option value="fire">Fuego</option>
+          <option value="hada">Hada</option>
+          <option value="hielo">Hielo</option>
+          <option value="lucha">Lucha</option>
+          <option value="normal">Normal</option>
+          <option value="psiquico">Psiquico</option>
+          <option value="roca">Roca</option>
+          <option value="siniestro">Siniestro</option>
+          <option value="tierra">Tierra</option>
+          <option value="poison">Veneno</option>
+          <option value="volador">Volador</option>
+        </select>
+      </section>
+
+      <section id="btn-orden">
+        <label for="ordenado"> Puntos de combate </label>
+        <select name="ordenando" class="ordenPokemon">
+          <option value="ascendente"> Ascendente </option>
+          <option value="descendente"> Descendente </option>
+        </select>
+      </section>
+
+      <div id="root"> </div>
+      
+   </article>
+
+    </main>
+
     <script src="main.js" type="module"></script>
   </body>
 </html>
