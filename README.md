@@ -1,6 +1,6 @@
-# Data Lovers
+# Data Pokemon Lovers
 
-### Proyecto 
+###Proyecto 
 
 Esta interface fue creado para los Maestros Pokemones interesados en una
 búsqueda específica para la verificación de sus nombres, aspecto y los máximos puntos de combate para el Juego de Cartas Coleccionables Pokemón. 
@@ -21,4 +21,3 @@ de combate.
 + CSS  
 + JAVASCRIPT 
 
-# data-lovers
