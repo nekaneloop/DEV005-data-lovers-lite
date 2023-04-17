@@ -7,7 +7,7 @@ búsqueda específica para la verificación de sus nombres, aspecto y los máxim
 
 <h1>Funcionamiento de la Interface</h1>
 
-Al ingresar contamos con dos selectores. El primero consta de la búsqueda por tipo, ya seade planta, fuego, agua, entre otros, mostrando el nombre y su aspecto físico en una imagen. En el segundo selector podemos escoger entre ascendente y descendente  sobre los puntos máximos 
+Al ingresar contamos con dos selectores. El primero consta de la búsqueda por tipo, ya sea de planta, fuego, agua, entre otros, mostrando el nombre y su aspecto físico en una imagen. En el segundo selector podemos escoger entre ascendente y descendente  sobre los puntos máximos 
 de combate.
 
 <h1>Organización del proyecto [aquí](https://trello.com/b/0qzSHwZt/data-lovers) </h1>
