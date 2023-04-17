@@ -17,7 +17,7 @@ Nuestras Historias se Usuarios se realizaron a través de una investigación cua
 <h1> Prototipo de Alta Fidelidad a través de Figma [aquí](https://www.figma.com/file/D2YS10sS8ohg2j0mkBW14h/Data-lovers---Pokemon?node-id=0-1&t=DuuNfldH7fh5OgAh-0)  </h1>
 
 <h1>Tecnologías que se usó en este proyecto</h1>
-+ HTML
-+ CSS  
-+ JAVASCRIPT 
+• HTML
+• CSS  
+• JAVASCRIPT 
 
